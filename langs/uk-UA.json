@@ -21,6 +21,16 @@
             "glow-enabled": true,
             "glow-col": 12,
             "death-effect-id": 20
+        },
+        {
+            "username": "gtagprojectua",
+            "account-id": 39551541,
+            "icon-id": 35,
+            "primary-col": 5,
+            "secondary-col": 12,
+            "glow-enabled": true,
+            "glow-col": 12,
+            "death-effect-id": 20
         }
     ],
     "fallback-lang": "",
@@ -64,7 +74,7 @@
             "remove-step": "Видалити Проміжний",
             "player-primary": "Іконка\nОсновний",
             "player-secondary": "Іконка\nВторинний",
-            "player-glow": "Іконка\nГлоу",
+            "player-glow": "Іконка\nСвітіння",
             "chroma": "Хроматичний",
             "pastel": "Пастельний",
             "gradient": "Градієнт",
@@ -131,7 +141,7 @@
             "show-hitboxes/passable-colour": "Проходимі:",
             "show-hitboxes/hazard-colour": "Вбиваючі:",
             "show-hitboxes/solid-colour": "Тверді:",
-            "show-hitboxes-on-death": "Показувати Хітбокси по Смерті",
+            "show-hitboxes-on-death": "Показувати Хітбокси на Смерті",
             "no-particles-adv": "Без Частинок",
             "no-particles-adv/dash-orb-particles": "Частинки Деш-Орбів",
             "no-particles-adv/coin-particles": "Частинки Об'єктів, Що Підбираються",
